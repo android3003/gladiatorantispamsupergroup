@@ -321,7 +321,7 @@ function create_config( )
     "share_contact",
     "twitter_send"
     },
-    sudo_users = {112392827,176112351,112392827},--Sudo users
+    sudo_users = {97653520},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Quick Guard v2
